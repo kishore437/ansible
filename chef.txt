@@ -1,0 +1,5 @@
+" hi this is chef"
+
+ package 'mysql' do
+    action: install
+ end
